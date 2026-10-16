@@ -1,0 +1,6 @@
+**pycache**/
+*.pyc
+hostel.db
+.env
+.venv/
+venv/
